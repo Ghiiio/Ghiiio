@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I’m @Ghiiio<br>👀 I’m interested in software development<br>🌱 I’m currently learning C language and shell<br>📫 How to reach me … Shenex95@yahoo.com
+👋 Hi, I’m @Ghiiio<br>👀 I’m interested in software development<br>🌱 I’m currently learning C language, shell,  html and css<br>📫 How to reach me … Shenex95@yahoo.com
 
 
 ## 🌐 Socials:
